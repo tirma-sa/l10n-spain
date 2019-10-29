@@ -28,7 +28,8 @@
         'data/account_account_common_igic.xml',
         'data/account_tax_group_data.xml',
         'data/taxes_common_igic.xml',
-        'data/fiscal_position_common_igic.xml'],
+        'data/fiscal_position_common_igic.xml',
+        'data/account_chart_template_data.yml'],
     'installable': True,
     'auto_install': False,
 }
